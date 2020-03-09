@@ -1,0 +1,6 @@
+1. 参与公司智算平台和推荐系统的设计，了解推荐系统中的一些常用排序算法(LR,xgboost,yutube DNN, DeepFM等)
+2. 熟悉DSP(竞价排名)公司的 CTR算法系统，了解RTB竞价流程和相关算法.
+3. 熟悉常规的特征处理方法，包括Emedding的方式(item2vec)
+4. 熟悉Spark编程框架，修改过Spark源码以对接公司,Clickhouse数据库。并通过修改SparkML模块代码搭建公司智算平台。
+5. 10年IT行业工作经验，2年机器学习平台工作经验，4年hadoop相关开发经验，2年 JAVA开发经验，4年Linux C/C++开发经验。
+

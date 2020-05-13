@@ -1,0 +1,122 @@
+{
+  "rootTopicKey": "bbe42ab9-36be-4477-9c45-c9ff148b5b63",
+  "editorRootTopicKey": "bbe42ab9-36be-4477-9c45-c9ff148b5b63",
+  "focusKey": "f1364d6e-ad95-427d-a5f6-d05fa1b798d0",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {
+        "f1364d6e-ad95-427d-a5f6-d05fa1b798d0": {
+          "keyList": [],
+          "dataMap": {}
+        }
+      }
+    }
+  },
+  "topics": [
+    {
+      "key": "bbe42ab9-36be-4477-9c45-c9ff148b5b63",
+      "parentKey": null,
+      "subKeys": [
+        "f1364d6e-ad95-427d-a5f6-d05fa1b798d0"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "RootTopic"
+        }
+      ]
+    },
+    {
+      "key": "f1364d6e-ad95-427d-a5f6-d05fa1b798d0",
+      "parentKey": "bbe42ab9-36be-4477-9c45-c9ff148b5b63",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "测试"
+        },
+        {
+          "type": "DESC",
+          "data": "??\nasdfasdf"
+        },
+        {
+          "type": "TOPOLOGY",
+          "data": {
+            "nodes": [],
+            "lines": [],
+            "lineName": "curve",
+            "fromArrowType": "",
+            "toArrowType": "triangleSolid",
+            "scale": 1,
+            "locked": 0
+          }
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "34px",
+          "borderRadius": "35px",
+          "padding": "16px 18px 16px 18px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "borderWidth": "1px",
+          "borderStyle": "solid",
+          "borderRadius": "20px",
+          "fontSize": "17px",
+          "padding": "10px 15px 10px 15px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
+        }
+      },
+      "normalTopic": {
+        "contentStyle": {
+          "border": "1px solid #e8eaec",
+          "borderRadius": "20px",
+          "fontSize": "17px",
+          "padding": "4px 10px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "white"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}

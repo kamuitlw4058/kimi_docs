@@ -1,0 +1,83 @@
+{
+  "rootTopicKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
+  "editorRootTopicKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
+  "focusKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
+  "extData": {},
+  "topics": [
+    {
+      "key": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
+      "parentKey": null,
+      "subKeys": [
+        "78312baa-e4be-467e-85e4-cd25c4e7ec43"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "阅读笔记"
+        }
+      ]
+    },
+    {
+      "key": "78312baa-e4be-467e-85e4-cd25c4e7ec43",
+      "parentKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": null
+}

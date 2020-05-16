@@ -1,14 +1,130 @@
 {
   "rootTopicKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
   "editorRootTopicKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
-  "focusKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
-  "extData": {},
+  "focusKey": "b94ee533-b44e-48a7-9a7b-18a112c8a7f1",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
   "topics": [
+    {
+      "key": "0eb96067-1e4f-4fdc-b5aa-f3115267a832",
+      "parentKey": "776fb51a-9110-4b05-94a3-28cd4b13776c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "线性"
+        }
+      ]
+    },
+    {
+      "key": "47aa42a1-789b-4417-8836-6ed2779a321d",
+      "parentKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "The Elements of Statistical Learning"
+        },
+        {
+          "type": "DESC",
+          "data": "[https://esl.hohoweiya.xyz/index.html](https://esl.hohoweiya.xyz/index.html)"
+        }
+      ]
+    },
+    {
+      "key": "78312baa-e4be-467e-85e4-cd25c4e7ec43",
+      "parentKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
+      "subKeys": [
+        "5b946414-27c0-446e-b41c-3ec854a6dda1",
+        "fb4a8f38-a0c0-4564-b179-2afc657f8c0e",
+        "776fb51a-9110-4b05-94a3-28cd4b13776c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "可解释的机器学习"
+        }
+      ]
+    },
+    {
+      "key": "776fb51a-9110-4b05-94a3-28cd4b13776c",
+      "parentKey": "78312baa-e4be-467e-85e4-cd25c4e7ec43",
+      "subKeys": [
+        "0eb96067-1e4f-4fdc-b5aa-f3115267a832",
+        "a779c5d6-783e-4a8e-9943-4720f2d947d4"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "线性回归的前提假设"
+        },
+        {
+          "type": "DESC",
+          "data": "模型是否为“正确”模型取决于数据中的关系是否满足某些假设，即线性、正态性、同方差性、独立性、固定特征和不存在多重共线性。模型是否为“正确”模型取决于数据中的关系是否满足某些假设，即线性、正态性、同方差性、独立性、固定特征和不存在多重共线性。"
+        }
+      ]
+    },
+    {
+      "key": "fb4a8f38-a0c0-4564-b179-2afc657f8c0e",
+      "parentKey": "78312baa-e4be-467e-85e4-cd25c4e7ec43",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "LIME"
+        },
+        {
+          "type": "DESC",
+          "data": "LIME：一种解释机器学习模型的方法\n[https://blog.csdn.net/a358463121/article/details/52313585](https://blog.csdn.net/a358463121/article/details/52313585)\n"
+        }
+      ]
+    },
+    {
+      "key": "b94ee533-b44e-48a7-9a7b-18a112c8a7f1",
+      "parentKey": "6f514c36-a5d0-4de8-bab0-a9f18da420cd",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "无偏估计"
+        }
+      ]
+    },
+    {
+      "key": "5b946414-27c0-446e-b41c-3ec854a6dda1",
+      "parentKey": "78312baa-e4be-467e-85e4-cd25c4e7ec43",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "罗生门"
+        }
+      ]
+    },
     {
       "key": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
       "parentKey": null,
       "subKeys": [
-        "78312baa-e4be-467e-85e4-cd25c4e7ec43"
+        "78312baa-e4be-467e-85e4-cd25c4e7ec43",
+        "47aa42a1-789b-4417-8836-6ed2779a321d",
+        "6f514c36-a5d0-4de8-bab0-a9f18da420cd"
       ],
       "collapse": false,
       "style": null,
@@ -20,15 +136,30 @@
       ]
     },
     {
-      "key": "78312baa-e4be-467e-85e4-cd25c4e7ec43",
+      "key": "6f514c36-a5d0-4de8-bab0-a9f18da420cd",
       "parentKey": "1397c071-bc0f-4ad8-a2f5-c2b025d02c48",
+      "subKeys": [
+        "b94ee533-b44e-48a7-9a7b-18a112c8a7f1"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "计量经济学"
+        }
+      ]
+    },
+    {
+      "key": "a779c5d6-783e-4a8e-9943-4720f2d947d4",
+      "parentKey": "776fb51a-9110-4b05-94a3-28cd4b13776c",
       "subKeys": [],
       "collapse": false,
       "style": null,
       "blocks": [
         {
           "type": "CONTENT",
-          "data": ""
+          "data": "正态性"
         }
       ]
     }
@@ -36,7 +167,7 @@
   "config": {
     "readOnly": false,
     "allowUndo": true,
-    "layoutDir": 2,
+    "layoutDir": 0,
     "theme": {
       "name": "default",
       "randomColor": true,
@@ -45,8 +176,7 @@
       "marginH": 60,
       "marginV": 20,
       "contentStyle": {
-        "lineHeight": "1.5",
-        "fontSize": "16px"
+        "lineHeight": "1.5"
       },
       "linkStyle": {
         "lineRadius": 5,
@@ -55,26 +185,41 @@
       },
       "rootTopic": {
         "contentStyle": {
-          "fontSize": "36px"
+          "fontSize": "34px",
+          "borderRadius": "35px",
+          "padding": "16px 18px 16px 18px"
         },
         "subLinkStyle": {
           "lineType": "curve",
-          "lineWidth": "3px"
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
         }
       },
       "primaryTopic": {
         "contentStyle": {
-          "fontSize": "24px"
+          "borderWidth": "1px",
+          "borderStyle": "solid",
+          "borderRadius": "20px",
+          "fontSize": "17px",
+          "padding": "10px 15px 10px 15px"
         },
         "subLinkStyle": {
           "lineType": "curve",
-          "lineWidth": "3px"
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
         }
       },
       "normalTopic": {
+        "contentStyle": {
+          "border": "1px solid #e8eaec",
+          "borderRadius": "20px",
+          "fontSize": "17px",
+          "padding": "4px 10px"
+        },
         "subLinkStyle": {
           "lineType": "curve",
-          "lineWidth": "3px"
+          "lineWidth": "3px",
+          "lineColor": "white"
         }
       }
     }

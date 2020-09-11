@@ -1,0 +1,342 @@
+<h5 style="margin: 0; text-align: left; color: #fff;">关于布雷恩国际物流 <i class="icon-right-open"></i></h5>
+
+#f5a700
+
+#ec8500
+
+#f5a700
+
+#ec8500
+
+2px
+
+10px 20px
+
+<a href="#about">#about</a>
+
+Heading
+
+<br />
+<h2>上海布雷恩国际<br/>
+成立于2014年<br/>
+旨在打造国际<br/>
+物流品牌
+</h2>
+
+center
+
+no-repeat;center top;;
+
+auto
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2018/04/home_logistics_offer2.png" alt="home_logistics_offer2"/>
+
+center
+
+zoomIn
+
+Desc
+
+<h4>国际空运，海运，快件</h4>
+
+center
+
+no-repeat;center top;;
+
+auto
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_offer3.png" alt="home_logistics_offer3"/>
+
+center
+
+zoomIn
+
+Desc
+
+<h4>包裹集运及海关清关</h4>
+
+center
+
+no-repeat;center top;;
+
+auto
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2018/04/home_logistics_offer1.png" alt="home_logistics_offer1"/>
+
+center
+
+zoomIn
+
+Desc
+
+<h4>国际物流快递集运</h4>
+
+center
+
+no-repeat;center top;;
+
+auto
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_offer3.png" alt="home_logistics_offer3"/>
+
+center
+
+zoomIn
+
+Desc
+
+<h4>第四方物流运输</h4>
+
+center
+
+no-repeat;center top;;
+
+auto
+
+Heading + desc
+
+<h2><b>布雷恩国际货运代理有限公司</b><br/><font color="#f5a700"><b>BRILLIANT GROUP</b></font></h2>
+<h4>旨在打造国际一流的物流品牌<br/>布雷恩国际是由国内外专家团队组建<br/>始终以追求极致的物流服务为发展目标<br/>高效稳定地为世界各地的客户不断创造价值。</h4>
+
+center
+
+no-repeat;center top;;
+
+auto
+
+Heading
+
+<h2>布雷恩国际物流<br/>成立于<span class="themecolor">2014年</span></h2>
+
+no-repeat;center top;;
+
+auto
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2018/04/home_logistics_pic1.png" alt="home_logistics_pic1"/>
+
+center
+
+fadeInDownLarge
+
+Heading
+
+<h2>您身边的国际物流专家</h2>
+
+no-repeat;center top;;
+
+auto
+
+34px 0 0 0
+
+价格优势，不同解决方案
+
+h4
+
+布雷恩物流服务是为您度身定制高性价比的快递解决方案
+
+icon-lamp
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_list1.png" alt="home_logistics_list1"/>
+
+top
+
+全面跟踪，及时查询反馈
+
+h4
+
+布雷恩物流服务为您的物品及运输安排全面的跟踪及查询系统
+
+icon-lamp
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_list2.png" alt="home_logistics_list2"/>
+
+top
+
+default
+
+专业物流人员，全方位服务
+
+h4
+
+布雷恩提供资深物流人员提供专业全面的物流咨询，集运，派送服务
+
+icon-lamp
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_list3.png" alt="home_logistics_list3"/>
+
+top
+
+高效精准的快递派送
+
+h4
+
+布雷恩物流秉承使命必达的品牌核心，竭力达到100%的客户满意度
+
+icon-lamp
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_list4.png" alt="home_logistics_list4"/>
+
+top
+
+Heading
+
+<h2 style="color: #fff;">布雷恩的服务范围覆盖全世界各个国家、城市、地区，服务内容包括<br/>
+<span class="themecolor">国际空运、国际海运、国际快件、国际铁路、国际手提货、国内物流、<br/>仓储、通关、办证、自贸区、外贸代理、商务咨询等相关业务</span></h2>
+
+center
+
+no-repeat;center top;;
+
+auto
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_map.png" alt="home_logistics_map"/>
+
+center
+
+zoomInDownLarge
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2018/04/home_logistics_offer2-1.png" alt="home_logistics_offer2-1"/>
+
+Heading + desc
+
+[image src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_icon_arrow.png" border="0"]
+
+[divider height="20"]
+
+<h2>国际空运，国际海运</h2>
+
+<p><b><font color="#f5a700">国际空运</font></b>: 全球优质空运服务商合作，提供在线查看空运运费、在线比价、在线下单的服务，北京、上海、杭州、广州、深圳多城市起运， 航线覆盖170个目的国和区域;更有拖车、报关等服务，满足您个性化需求！</p>
+<hr/>
+<p><b><font color="#f5a700">国际海运</font></b>: 海运联合各大物流服务商，为您提供船东专区&海运整柜&拼箱服务。在线查询船期、订舱、操作，费用透明、真实有效。同时提供拖车、报关，散货还有目的港送货到门等增值服务。海运整柜已基本全航线覆盖，如欧地线、中东印巴线、东南亚线、日韩、澳洲、非洲线、美加、中南美。 海运拼箱服务开通了台湾、日、韩、东南亚、欧地黑、美、加、澳洲、中东、印巴、南美等航线，未来将开通更多，敬请关注。</p>
+
+no-repeat;center top;;
+
+auto
+
+30px 5% 0 0
+
+40
+
+default
+
+default
+
+Heading + desc
+
+[image src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_icon_arrow.png" border="0"]
+
+[divider height="20"]
+
+<h2>国际快递，海关清关</h2>
+
+<p><b><font color="#f5a700">国际快递</font></b>： 布雷恩与国际知名快递品牌合作，为您提供快递门到门取派件服务。已经支持全国36个城市上门取件服务，航线覆盖220多个目的国。现在已经在合作的国际快递服务商有DHL，UPS和FedEx，无论是文件、货物，还是运输时需要稍加规划的物品，我们都能为您找到从 A 至 B 的最佳货运方式。</p>
+<hr/>
+<p><b><font color="#f5a700">海关清关</font></b>： 将货物发送到国外或者进口到国内时，海关可能会导致延迟。了解进行国际货运时的业务操作以及如何节省边检时间。我们将提供各种进出口报关服务,清关3-5天,审标1-2天,报关费用低，中文标签设计,港口通关申报,单证办理等服务。我们一系列清关代理服务确保货运顺利按时跨境，无后顾之忧。</p>
+
+no-repeat;center top;;
+
+auto
+
+30px 5% 0 0
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_offer3.png" alt="home_logistics_offer3"/>
+
+40
+
+default
+
+default
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2018/04/home_logistics_offer1.png" alt="home_logistics_offer1"/>
+
+Heading + desc
+
+[image src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_icon_arrow.png" border="0"]
+
+[divider height="20"]
+
+<h2>国内物流，当日派件</h2>
+
+<p><b><font color="#f5a700">国内物流</font></b>： 布雷恩致力成为以客户为中心，覆盖快递、快运、整车、仓储与供应链、跨境等多元业务的综合性国内物流供应商。我们凭借坚实的网络基础、强大的人才储备、深刻的市场洞悉，为跨行业的客户创造多元、灵活、高效的国内物流选择，让物流赋予企业更大的商业价值，赋予消费者更卓越的体验。</p>
+<hr/>
+<p><b><font color="#f5a700">当日派件</font></b>： 布雷恩为您的货件运输提供专业服务的同时，也提供指定时间的当日达服务。 根据行业和客户需求提供（2小时-12小时）的配送服务，从而满足同城客户高频、即时、个性化小件同城当日配送需求。</p>
+
+no-repeat;center top;;
+
+auto
+
+30px 5% 0 0
+
+Heading
+
+<h2>[新地址]：中国上海市虹口区黄浦路53号1906室 </h2>
+
+<div id="team"></div>
+
+no-repeat;center top;;
+
+auto
+
+<img src="http://www.brilliantgroup.com.cn/wp-content/uploads/2016/09/home_logistics_pic3.png" alt="home_logistics_pic3"/>
+
+bounceInUp
+
+Desc + icon
+
+<h4 style="margin-bottom: 7px;color:#f5a700"><b>朱经理</b></h4>
+<h5>布雷恩总经理</h5>
+<p style="margin-bottom: 10px;"><i class="icon-mail-line themecolor"></i> <a href="mailto:michaelzhu@brilliantgroup.com.cn">michaelzhu@brilliantgroup.com.cn</a> <i class="icon-right-circled themecolor"></i></p>
+<p><i class="icon-mobile-line themecolor"></i> <a href="tel:+86 13611951013">+86 13611951013</a> <i class="icon-right-circled themecolor"></i></p>
+
+no-repeat;left top;;
+
+auto
+
+0 0 0 50px
+
+Desc + icon
+
+<h4 style="margin-bottom: 7px;color:#f5a700"><b>闵经理</b></h4>
+<h5>布雷恩销售经理</h5>
+<p style="margin-bottom: 10px;"><i class="icon-mail-line themecolor"></i> <a href="mailto:maxmin@brilliantgroup.com.cn">maxmin@brilliantgroup.com.cn</a> <i class="icon-right-circled themecolor"></i></p>
+<p><i class="icon-mobile-line themecolor"></i> <a href="tel:+86 19921138842">+86 19921138842</a> <i class="icon-right-circled themecolor"></i></p>
+
+no-repeat;left top;;
+
+auto
+
+0 0 0 50px
+
+Desc + icon
+
+<h4 style="margin-bottom: 7px;color:#f5a700"><b>陆经理</b></h4>
+<h5>布雷恩销售经理</h5>
+<p style="margin-bottom: 10px;"><i class="icon-mail-line themecolor"></i> <a href="mailto:marshlu@brilliantgroup.com.cn">marshlu@brilliantgroup.com.cn</a> <i class="icon-right-circled themecolor"></i></p>
+<p><i class="icon-mobile-line themecolor"></i> <a href="tel:+86 18901775959">+86 18901775959</a> <i class="icon-right-circled themecolor"></i></p>
+
+no-repeat;left top;;
+
+auto
+
+0 0 0 50px
+
+Desc + icon
+
+<h4 style="margin-bottom: 7px;color:#f5a700"><b> 程经理</b></h4>
+<h5>布雷恩客服经理</h5>
+<p style="margin-bottom: 10px;"><i class="icon-mail-line themecolor"></i> <a href="mailto:chenghuihua@brilliantgroup.com.cn">chenghuihua@brilliantgroup.com.cn</a> <i class="icon-right-circled themecolor"></i></p>
+<p><i class="icon-mobile-line themecolor"></i> <a href="tel:+86 13917314532">+86 13917314532</a> <i class="icon-right-circled themecolor"></i></p>
+
+no-repeat;left top;;
+
+auto
+
+0 0 0 50px
+
+Desc + icon
+
+<h4 style="margin-bottom: 7px;color:#f5a700"><b>费经理</b></h4>
+<h5>布雷恩操作经理</h5>
+<p style="margin-bottom: 10px;"><i class="icon-mail-line themecolor"></i> <a href="mailto:bellefei@brilliantgroup.com.cn">bellefei@brilliantgroup.com.cn</a> <i class="icon-right-circled themecolor"></i></p>
+<p><i class="icon-mobile-line themecolor"></i> <a href="tel:+86 ‭136 3633 3505">+86 ‭136 3633 3505</a> <i class="icon-right-circled themecolor"></i></p>
+

@@ -269,7 +269,7 @@ auto
 
 Heading
 
-<h2>[新地址]：中国上海市虹口区黄浦路53号1906室 </h2>
+<h2>[总部地址]：中国上海市虹口区黄浦路53号1906室 </h2>
 
 <div id="team"></div>
 
@@ -340,3 +340,10 @@ Desc + icon
 <p style="margin-bottom: 10px;"><i class="icon-mail-line themecolor"></i> <a href="mailto:bellefei@brilliantgroup.com.cn">bellefei@brilliantgroup.com.cn</a> <i class="icon-right-circled themecolor"></i></p>
 <p><i class="icon-mobile-line themecolor"></i> <a href="tel:+86 ‭136 3633 3505">+86 ‭136 3633 3505</a> <i class="icon-right-circled themecolor"></i></p>
 
+no-repeat;left top;;
+
+auto
+
+0 0 0 50px
+
+Desc + icon
